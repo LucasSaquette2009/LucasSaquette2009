@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Sou de Sorocaba/Sp<br><br>- 🔭 Estudo Java<br>- 📚 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC.<br>- ⚡ Sempre atualizando o portifólio</p>
+<p align="left">Sou de Sorocaba/Sp<br><br>- 🔭 Estudando Java atualmente<br>- 📚 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC.<br>- ⚡ Sempre atualizando o portifólio</p>
 
 ###
 
