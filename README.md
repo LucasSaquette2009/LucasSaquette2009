@@ -1,57 +1,112 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB2d2tiZHkzd2pxN2Y0MWo3Z3A1bmx5cmtnOXRmb2Zucmx3dXpjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Saquette;Backend+Java+Developer;Desenvolvimento+de+Sistemas+-+ETEC;Apaixonado+por+tecnologia" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=LucasSaquette2009&color=00ffff&style=for-the-badge">
+
 </div>
 
-###
+---
+
+<div class="glass" style="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
+
+<div class="title"><h2>👨‍💻 Sobre mim:</h2></div>
+<br>
+🎓 Desenvolvimento de sistemas — ETEC de Sorocaba  
+☕ Desenvolvedor Backend Java (Curso Prof. Nélio Alves)  
+🧠 Foco em POO, Encapsulamento e Arquitetura de Sistemas  
+🚀 Sempre evoluindo e construindo projetos reais  
+
+</div>
+
+---
+
+<div class="glass">
+
+<div class="title"><h2>⚡ Stack Tecnológica:</h2></div>
+<br>
+<div class="badges">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,mysql,html,css,linux"/>
+
+</div>
+
+</div>
+
+---
+
+<div class="glass center" align="center">
+
+<div class="title"><h2>📊 Estatísticas GitHub:</h2></div>
+<br>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=LucasSaquette2009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSaquette2009&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div class="glass center" align="center">
+
+<div class="title"><h2>🔥 Streak de contribuições:</h2></div>
+<br>
+<img src="https://streak-stats.demolab.com?user=LucasSaquette2009&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div class="glass center" align="center">
+
+<div class="title"><h2>🏆 Conquistas GitHub:</h2></div>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=LucasSaquette2009&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+<div class="glass">
+
+<div class="title"><h2>🚀 Projetos em destaque:</h2></div>
+<br>
+🔹 <b>Store Management:</b> Gestão de estoque com POO e Encapsulamento  
+🔹 <b>Currency Converter:</b> Utilitário estático para conversão de moedas com IOF  
+🔹 <b>Geometric Calculator:</b> Cálculos de circunferência e volume (Static Members)  
+🔹 <b>Bank System:</b> Lógica bancária com proteção de saldo e taxas  
+
+</div>
+
+---
+
+<div class="glass center" align="center">
+
+<div class="title"><h2>🌐 Vamos conversar? CONTATOS:</h2></div>
+
+<a href="https://www.linkedin.com/in/lucassaquette/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lucas.saquette@outlook.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucassaquette" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  
-  <a href="mailto:lucassaquette954@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+
+⭐ Obrigado por visitar meu perfil!
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasSaquette2009.LucasSaquette2009&left_text=Visitantes"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">Git hub do Lucas Saquette</h1>
-
-###
-
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-
-<p align="left">Sou de Sorocaba/Sp<br><br>- 🔭 Estudando Java atualmente<br>- 📚 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC.<br>- ⚡ Sempre atualizando o portifólio</p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas que utilizo:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-###
