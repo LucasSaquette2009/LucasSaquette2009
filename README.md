@@ -97,7 +97,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSaquett
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:lucas.saquette@outlook.com">
+<a href="mailto:lucassaquette954@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
