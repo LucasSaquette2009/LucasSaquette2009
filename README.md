@@ -46,9 +46,6 @@
 
 
 
----
-
-
 <div class="title"><h2>🔥 Streak de contribuições:</h2></div>
 <br>
 <img src="https://streak-stats.demolab.com?user=LucasSaquette2009&theme=tokyonight&hide_border=true"/>
