@@ -48,7 +48,6 @@
 
 ---
 
-<div class="glass center" align="center">
 
 <div class="title"><h2>🔥 Streak de contribuições:</h2></div>
 <br>
