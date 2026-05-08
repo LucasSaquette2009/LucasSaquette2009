@@ -44,15 +44,7 @@
 
 <div class="glass center" align="center">
 
-<div class="title"><h2>📊 Estatísticas GitHub:</h2></div>
-<br>
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=LucasSaquette2009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSaquette2009&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
