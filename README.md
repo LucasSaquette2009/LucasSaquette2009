@@ -34,7 +34,7 @@
 <br>
 <div class="badges">
 
-<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,mysql,html,css,linux"/>
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,mysql,html,css"/>
 
 </div>
 
