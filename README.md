@@ -21,7 +21,7 @@
 <br>
 🎓 Desenvolvimento de sistemas — ETEC de Sorocaba  
 ☕ Desenvolvedor Backend Java (Curso Prof. Nélio Alves)  
-🧠 Foco em POO, Encapsulamento e Arquitetura de Sistemas  
+🧠 Foco em POO e Arquitetura de Sistemas  
 🚀 Sempre evoluindo e construindo projetos reais  
 
 </div>
