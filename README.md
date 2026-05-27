@@ -19,7 +19,7 @@
 
 <div class="title"><h2>👨‍💻 Sobre mim:</h2></div>
 <br>
-🎓 Desenvolvimento de sistemas — ETEC de Sorocaba  
+🎓 2º Ano Desenvolvimento de sistemas — ETEC de Sorocaba  
 ☕ Desenvolvedor Backend Java (Curso Prof. Nélio Alves)  
 🧠 Foco em POO e Arquitetura de Sistemas  
 🚀 Sempre evoluindo e construindo projetos reais  
