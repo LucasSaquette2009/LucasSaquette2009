@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Saquette;Backend+Java+Developer;Desenvolvimento+de+Sistemas+-+ETEC;Apaixonado+por+tecnologia" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Saquette;Backend+Java+Developer;2º Desenvolvimento+de+Sistemas+-+ETEC;Apaixonado+por+tecnologia" />
 
 <br><br>
 
