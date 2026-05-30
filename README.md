@@ -68,7 +68,7 @@
 
 <div class="title"><h2>🚀 Projetos em destaque:</h2></div>
 <br>
-🔹 <b>Store Management:</b> Gestão de estoque com POO e Encapsulamento  
+🔹 <b>Bank System:</b> Sistema de banco (ADM ACESS)  Usado lógica de programação, POO, Divisão de responsibilidades etc.
 🔹 <b>Currency Converter:</b> Utilitário estático para conversão de moedas com IOF  
 🔹 <b>Geometric Calculator:</b> Cálculos de circunferência e volume (Static Members)  
 🔹 <b>Bank System:</b> Lógica bancária com proteção de saldo e taxas  
