@@ -46,20 +46,17 @@
 
 
 
-<div class="title"><h2>🔥 Streak de contribuições:</h2></div>
-<br>
-<img src="https://streak-stats.demolab.com?user=LucasSaquette2009&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+  <h2>🔥 Streak de contribuições:</h2>
+  <img src="https://streak-stats.demolab.com?user=LucasSaquette2009&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <h2>🏆 Conquistas GitHub:</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasSaquette2009&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 
 </div>
-
----
-
-<div class="glass center" align="center">
-
-<div class="title"><h2>🏆 Conquistas GitHub:</h2></div>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=LucasSaquette2009&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
 </div>
 
 ---
