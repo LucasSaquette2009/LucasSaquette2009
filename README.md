@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="./lucas-saquette-github.gif" alt="Lucas Saquette - Developer">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=022FFFBD&center=true&width=435&lines=Lucas+Saquette;Desenvolvedor+Back+end+Java;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 
 <br><br>
 
