@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Saquette;Backend+Java+Developer;Desenvolvimento+de+Sistemas+-+ETEC;Apaixonado+por+tecnologia" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2864FF&width=435&lines=Lucas+Saquette;Desenvolvedor+Back+end+Java)](https://git.io/typing-svg)
 
 <br><br>
 
