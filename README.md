@@ -4,7 +4,7 @@
   <img src="./lucas-saquette-github.gif" alt="Lucas Saquette - Developer">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=00FFFF&center=true&width=435&lines=Lucas+Saquette;Desenvolvedor+Back+end+Java;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=LucasSaquette2009&color=36454F&style=for-the-badge">
