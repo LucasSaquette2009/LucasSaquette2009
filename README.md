@@ -1,9 +1,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="./lucas-saquette-github.gif(1)" alt="Lucas Saquette - Developer">
+  <img src="./lucas-saquette-github.gif" alt="Lucas Saquette - Developer">
 </p>
-
 
 <br><br>
 
