@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=LucasSaquette2009&color=00ffff&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=LucasSaquette2009&color=36454F&style=for-the-badge">
 
 </div>
 
