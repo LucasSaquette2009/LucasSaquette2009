@@ -33,11 +33,9 @@
         <h4>Contato:</h4>
       </samp>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaell-vieira/)
-[![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelcouto110@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/lucassaquette//)
+[![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassaquette954@gmail.com)
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dddddd&height=100&section=footer"/>
 
 ## 🧠 O que estou a aprender e a praticar
 
@@ -75,3 +73,5 @@
 ## 🚀 Filosofia
 
 > _"Escrever código limpo não é apenas fazer o programa funcionar, é garantir que ele possa evoluir com simplicidade e clareza."_
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dddddd&height=100&section=footer"/>
