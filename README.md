@@ -1,12 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Lucas+Saquette;Estudante+de+DS)](https://git.io/typing-svg)
-
-
-# Olá 👋, eu sou o [Teu Nome]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Lucas+de+Oliveira+Saquette;Estudante+de+TI;Futuro+Desenvolvedor+Java..)](https://git.io/typing-svg)
 
 🚀 **Desenvolvedor de Software | Focado em Java & POO**  
 🇧🇷 Brasil
 
-Atualmente focado no estudo aprofundado de **Programação Orientada a Objetos (POO)**, **Java**, **Tratamento de Exceções** e boas práticas de desenvolvimento de software.
+Atualmente focado no estudo aprofundado de **Programação Orientada a Objetos (POO)**, **Java** e boas práticas de desenvolvimento de software.
 
 Gosto de construir **projetos limpos e bem estruturados**, documentar a minha evolução e partilhar código de qualidade.
 
@@ -15,10 +12,10 @@ Gosto de construir **projetos limpos e bem estruturados**, documentar a minha ev
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN">
+  <a href="https://www.linkedin.com/in/lucassaquette/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:lucassaquette954@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
