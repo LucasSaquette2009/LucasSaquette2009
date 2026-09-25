@@ -1,41 +1,40 @@
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bdbdbd&width=800&size=20&center=true&lines=Lucas+de+Oliveira+Saquette;Estudande+de+Desenvolvimento+de+Sistemas+-+Etec;Futuro+Desenvolvedor+Java.." alt="Typing SVG"/>
-
-  <samp>
-      <br>
-      </b>
-  </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bdbdbd&width=800&size=20&center=true&lines=Lucas+de+Oliveira+Saquette;Estudante+de+Desenvolvimento+de+Sistemas+-+Etec;Futuro+Desenvolvedor+Java.." alt="Typing SVG"/>
 </div>
 
 <br>
-
-##
 
 <div align="center">
   <img align="center" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasSaquette2009&theme=nord_dark&animation=load&bg_color=141414&icon_color=fcfcfc&chart_color=a3a3a3"/>
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  
+<br>
+
+<div align="center">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 <br>
 
-##
-<div align="center">
-        <samp>
-        <h4>Contato:</h4>
-      </samp>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassaquette/)
-[![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassaquette954@gmail.com)
+<div align="center">
+  <h3>📬 Contato</h3>
+
+  <a href="https://www.linkedin.com/in/lucassaquette/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucassaquette954@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
+
+---
 
 ## 🧠 O que estou a aprender e a praticar
 
