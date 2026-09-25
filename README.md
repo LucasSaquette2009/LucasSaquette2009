@@ -73,5 +73,3 @@
 ## 🚀 Filosofia
 
 > _"Escrever código limpo não é apenas fazer o programa funcionar, é garantir que ele possa evoluir com simplicidade e clareza."_
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dddddd&height=100&section=footer"/>
