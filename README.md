@@ -1,1 +1,1 @@
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=022FFFBD&center=true&width=435&lines=Lucas+Saquette;Desenvolvedor+Back+end+Java;Apaixonado+por+Tecnologia
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Lucas+Saquette;Estudante+de+DS)](https://git.io/typing-svg)
