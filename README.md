@@ -49,8 +49,8 @@ Gosto de construir **projetos limpos e bem estruturados**, documentar a minha ev
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=LucasSaquette2009&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasSaquette2009&layout=compact&theme=tokyonight" />
 </p>
 
 ---
