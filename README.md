@@ -33,7 +33,7 @@
         <h4>Contato:</h4>
       </samp>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassaquette//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassaquette/)
 [![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassaquette954@gmail.com)
 </div>
 
