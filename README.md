@@ -1,26 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Lucas+de+Oliveira+Saquette;Estudante+de+TI;Futuro+Desenvolvedor+Java..)](https://git.io/typing-svg)
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bdbdbd&width=800&size=20&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;" alt="Typing SVG"/>
 
-🚀 **Desenvolvedor de Software | Focado em Java & POO**  
-🇧🇷 Brasil
+  <samp>
+      <br>
+      Eu me chamo <b>Rafaell Vieira Couto</b>
+  </samp>
+</div>
 
-Atualmente focado no estudo aprofundado de **Programação Orientada a Objetos (POO)**, **Java** e boas práticas de desenvolvimento de software.
+<br>
 
-Gosto de construir **projetos limpos e bem estruturados**, documentar a minha evolução e partilhar código de qualidade.
+##
 
----
+<div align="center">
+  <img align="center" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilderBoy233&theme=nord_dark&animation=load&bg_color=141414&icon_color=fcfcfc&chart_color=a3a3a3"/>
+</div>
 
-## 🌐 Onde me encontrar
+<div align="center" style="display: inline_block"><br>
+  
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucassaquette/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucassaquette954@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
 
----
+##
+<div align="center">
+        <samp>
+        <h4>Contato:</h4>
+      </samp>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaell-vieira/)
+[![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelcouto110@gmail.com)
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dddddd&height=100&section=footer"/>
 
 ## 🧠 O que estou a aprender e a praticar
 
