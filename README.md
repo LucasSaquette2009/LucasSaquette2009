@@ -12,7 +12,7 @@
 ##
 
 <div align="center">
-  <img align="center" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilderBoy233&theme=nord_dark&animation=load&bg_color=141414&icon_color=fcfcfc&chart_color=a3a3a3"/>
+  <img align="center" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasSaquette2009&theme=nord_dark&animation=load&bg_color=141414&icon_color=fcfcfc&chart_color=a3a3a3"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
