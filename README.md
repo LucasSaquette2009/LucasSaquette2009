@@ -1,9 +1,8 @@
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bdbdbd&width=800&size=20&center=true&lines=Estudande+de+Desenvolvimento+de+Sistemas+-+Etec;" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=B6B6B6&width=800&height=200&lines=Lucas+de+Oliveira+Saquette;Estudande+de+Desenvolvimento+de+Sistemas+-+Etec;Futuro+Desenvolvedor+Java.." alt="Typing SVG" /></a>
 
   <samp>
       <br>
-      Eu me chamo <b>Rafaell Vieira Couto</b>
+      </b>
   </samp>
 </div>
 
